@@ -1,4 +1,4 @@
-# Homework 3: Search for Movie Plots 📽️  
+# 📽️ Search for Movie Plots   
 ## What's included?
 - 3 notebooks
   1. [semantic search](https://github.com/ericphann/search-for-movie-plots/blob/main/notebooks/01-semantic_search.ipynb)
