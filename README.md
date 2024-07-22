@@ -1,5 +1,5 @@
 # 📽️ Search for Movie Plots  
-Baseline models for searching for movie plots. Techniques include BM25 (lexical search), bi/cross-encoding (semantic search), and retrieval-augmented generation (RAG) using Mistal 7B through Fireworks.ai.
+Baseline models for searching for movie plots from Wikipedia articles. Techniques include BM25 (lexical search), bi/cross-encoding (semantic search), and retrieval-augmented generation (RAG) using Mistal 7B through Fireworks.ai.
 ## What's included?
 - 3 notebooks
   1. [semantic search](https://github.com/ericphann/search-for-movie-plots/blob/main/notebooks/01-semantic_search.ipynb)
